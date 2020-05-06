@@ -8,7 +8,10 @@ This repository contains assignment and practical exam solutions for one of my p
 ## WebSubmission TestCases and Output
 [Assignment - 1 Task - 1 WebSubmission Result](https://github.com/Vanditg/COMP-SCI-7059---Artificial-Intelligence/blob/master/Assignment/Assignment%20-%201/WebSubmission/Assignment%20-%201%20-%20Task_1.pdf)  
 [Assignment - 1 Task - 2 WebSubmission Result](https://github.com/Vanditg/COMP-SCI-7059---Artificial-Intelligence/blob/master/Assignment/Assignment%20-%201/WebSubmission/Assignment%20-%201%20-%20Task_2.pdf)  
-[Assignment - 2 Task - 1 WebSubmission Result](https://github.com/Vanditg/COMP-SCI-7059---Artificial-Intelligence/tree/master/Assignment/Assignment%20-%202/WebSubmission)  -->> Late Submission and Buggy Code :( 
+[Assignment - 2 Task - 1 WebSubmission Result](https://github.com/Vanditg/COMP-SCI-7059---Artificial-Intelligence/tree/master/Assignment/Assignment%20-%202/WebSubmission)  -->> Late Submission and Buggy Code :(  
+
+## Useful Files 
+[Assignment - 2 Useful Files](https://github.com/Vanditg/COMP-SCI-7059---Artificial-Intelligence/tree/master/useful_files)  
 
 ## More Detailed Navigation and Theory Understanding for Each Assignment
 ---------- Under Construction ----------
