@@ -16,5 +16,5 @@ This repository contains assignment and practical exam solutions for one of my p
 [Assignment - 2 Useful Files](https://github.com/Vanditg/COMP-SCI-7059---Artificial-Intelligence/tree/master/useful_files)  
 [Assignment - 3 Useful Files](https://github.com/Vanditg/COMP-SCI-7059---Artificial-Intelligence/tree/master/useful_files/Assignment_3_Random_Values_and_Samples)  
 
-## More Detailed Navigation and Theory Understanding for Each Assignment
----------- Under Construction ----------
+## Lecture Slides and Videos  
+Please send a request [Here](https://shorturl.at/aEPRT)  
