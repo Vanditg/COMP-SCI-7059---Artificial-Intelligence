@@ -7,8 +7,8 @@ This repository contains assignment and practical exam solutions for one of my p
 [Assignment - 3 ](https://github.com/Vanditg/COMP-SCI-7059---Artificial-Intelligence/tree/master/Assignment/Assignment%20-%203/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7059---Artificial-Intelligence/tree/master/Assignment/Assignment%20-%203/Solution) <<<--->>> [Feeback](https://github.com/Vanditg/COMP-SCI-7059---Artificial-Intelligence/tree/master/Assignment/Assignment%20-%203/Feedback)    
 
 ## WebSubmission TestCases and Output
-[Assignment - 1 Task - 1 WebSubmission Result](https://github.com/Vanditg/COMP-SCI-7059---Artificial-Intelligence/blob/master/Assignment/Assignment%20-%201/WebSubmission/Assignment%20-%201%20-%20Task_1.pdf) -->> Full Marks
-[Assignment - 1 Task - 2 WebSubmission Result](https://github.com/Vanditg/COMP-SCI-7059---Artificial-Intelligence/blob/master/Assignment/Assignment%20-%201/WebSubmission/Assignment%20-%201%20-%20Task_2.pdf) -->> Full Marks
+[Assignment - 1 Task - 1 WebSubmission Result](https://github.com/Vanditg/COMP-SCI-7059---Artificial-Intelligence/blob/master/Assignment/Assignment%20-%201/WebSubmission/Assignment%20-%201%20-%20Task_1.pdf) -->> Full Marks  
+[Assignment - 1 Task - 2 WebSubmission Result](https://github.com/Vanditg/COMP-SCI-7059---Artificial-Intelligence/blob/master/Assignment/Assignment%20-%201/WebSubmission/Assignment%20-%201%20-%20Task_2.pdf) -->> Full Marks  
 [Assignment - 2 Task - 1 WebSubmission Result](https://github.com/Vanditg/COMP-SCI-7059---Artificial-Intelligence/tree/master/Assignment/Assignment%20-%202/WebSubmission)  -->> Late Submission and Buggy Code :(  -->> Half Marks  
 [Assignment - 2 Task - 2 WebSubmission Result](http://blank.org/) -->> Not Submitted!  
 
